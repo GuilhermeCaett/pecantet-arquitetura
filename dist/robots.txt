@@ -4,4 +4,4 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://pecantet-arquitetura.guixd1607.chatgpt.site/sitemap.xml
+Sitemap: https://pecantet-arquitetura.vercel.app/sitemap.xml

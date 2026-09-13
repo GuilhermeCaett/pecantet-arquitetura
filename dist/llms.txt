@@ -26,4 +26,4 @@ A Pecantet Arquitetura desenvolve projetos autorais a partir da rotina, das nece
 
 ## Página oficial
 
-- https://pecantet-arquitetura.guixd1607.chatgpt.site/
+- https://pecantet-arquitetura.vercel.app/
