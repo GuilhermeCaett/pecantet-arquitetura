@@ -9,7 +9,8 @@
 - Formação: Arquitetura e Urbanismo pela Universidade Federal de Mato Grosso do Sul (UFMS)
 - Local de atuação: Campo Grande, Mato Grosso do Sul, Brasil
 - Telefone e WhatsApp: +55 67 99820-0703
-- Instagram: https://www.instagram.com/arq.marlonpecantet
+- [Instagram da Pecantet Arquitetura](https://www.instagram.com/arq.marlonpecantet)
+- [Conversar pelo WhatsApp](https://wa.me/5567998200703)
 
 ## Serviços
 
@@ -24,6 +25,12 @@
 
 A Pecantet Arquitetura desenvolve projetos autorais a partir da rotina, das necessidades, do terreno e dos objetivos de cada cliente. Sustentabilidade é tratada como critério de projeto, com atenção ao clima, à eficiência, à durabilidade e ao bem-estar.
 
-## Página oficial
+## Links oficiais
 
-- https://pecantet-arquitetura.vercel.app/
+- [Site oficial da Pecantet Arquitetura](https://pecantet-arquitetura.vercel.app/)
+- [Projetos](https://pecantet-arquitetura.vercel.app/#projetos)
+- [Arquitetura sustentável](https://pecantet-arquitetura.vercel.app/#sustentabilidade)
+- [Sobre Marlon Pecantet](https://pecantet-arquitetura.vercel.app/#arquiteto)
+- [Diferenciais](https://pecantet-arquitetura.vercel.app/#diferenciais)
+- [Perguntas frequentes](https://pecantet-arquitetura.vercel.app/#perguntas)
+- [Contato](https://pecantet-arquitetura.vercel.app/#contato)
